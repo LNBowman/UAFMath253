@@ -1,0 +1,15 @@
+<worksheet >
+    <title>DC-2 The Chain Rule</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to correctly complete all three parts. 
+      To earn a P on this outcome, you will need to correctly complete two parts with progress on the third.</p>
+  </introduction>  
+  <page>
+    <exercise workspace="1.5in">
+        <introduction><p>Let <m>f(x,y)=\frac{\cos(x)}{y^3}</m> where <m>x(u,v)=u+v^2</m> and <m>y(u,v)=2u^2-v</m>.</p></introduction>
+        <task><statement><p>Find <m>\frac{\partial f}{\partial u}</m>.</p></statement></task>
+        <task><statement><p>Find <m>\frac{\partial f}{\partial v}</m>.</p></statement></task>
+        <task><statement><p>If <m>u(t)=2t^2</m> and <m>v(t)=4t-1</m>, find <m>\frac{df}{dt}</m>.</p></statement></task>
+    </exercise>
+  </page>
+</worksheet>

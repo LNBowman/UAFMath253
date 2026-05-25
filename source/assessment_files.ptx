@@ -79,6 +79,59 @@
           <xi:include href="./assessments/fun-outcomes/fun-4-e.ptx" />
         </subsection>
       </section>
+      <section xml:id="sec-dc-outcomes">
+        <title>Differential Calculus</title>
+        <introduction><p>Here are the assessment outcomes for Differential Calculus. There are multiple versions 
+          of each outcome so that there are options for multiple semesters of assessments. This section is 
+          divided into 5 outcomes:
+          <ul>
+            <li><p>Partial Derivatives</p></li>
+            <li><p>The Chain Rule</p></li>
+            <li><p>Gradient, Tangent Lines and Linear Approximations</p></li>
+            <li><p>Maxima and Minima</p></li>
+            <li><p>Lagrange Multipliers</p></li>
+          </ul></p></introduction>
+          <subsection xml:id="sec-dc1-outcomes">
+            <title>DC-1 Partial Derivatives</title>
+            <xi:include href="./assessments/dc-outcomes/dc-1-a.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-1-b.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-1-c.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-1-d.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-1-e.ptx" />
+          </subsection>
+          <subsection xml:id="sec-dc2-outcomes">
+            <title>DC-2 The Chain Rule</title>
+            <xi:include href="./assessments/dc-outcomes/dc-2-a.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-2-b.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-2-c.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-2-d.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-2-e.ptx" />
+          </subsection>
+          <subsection xml:id="sec-dc3-outcomes">
+            <title>DC-3 Gradient, Tangent Lines and Linear Approximations</title>
+            <xi:include href="./assessments/dc-outcomes/dc-3-a.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-3-b.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-3-c.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-3-d.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-3-e.ptx" />
+          </subsection>
+          <subsection xml:id="sec-dc4-outcomes">
+            <title>DC-4 Maxima and Minima</title>
+            <xi:include href="./assessments/dc-outcomes/dc-4-a.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-4-b.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-4-c.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-4-d.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-4-e.ptx" />
+          </subsection>
+          <subsection xml:id="sec-dc5-outcomes">
+            <title>DC-5 Lagrange Multipliers</title>
+            <xi:include href="./assessments/dc-outcomes/dc-5-a.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-5-b.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-5-c.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-5-d.ptx" />
+            <xi:include href="./assessments/dc-outcomes/dc-5-e.ptx" />
+          </subsection>
+      </section>
     </chapter>
     
 

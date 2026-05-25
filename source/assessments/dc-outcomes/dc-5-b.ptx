@@ -1,0 +1,14 @@
+<worksheet >
+    <title>DC-5 Lagrange Multipliers</title>
+  <introduction>
+    <p> To earn an M on this outcome, you will need to give the correct system, 
+      give the correct critical points and classifications; to earn a P on this outcome, 
+      you will need to give the correct system and give the correct critical points.</p>
+  </introduction>  
+  <page>
+    <exercise>
+        <p>Given <m>f(x,y,z)=x^2yz</m> on the sphere <m>x^2+y^2+z^2=24</m>, use the method of 
+          Lagrange multipliers to find the extreme values of the function.</p>
+    </exercise>
+  </page>
+</worksheet>

@@ -1,0 +1,13 @@
+<worksheet >
+    <title>DC-4 Maxima and Minima</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to show work, give correct critical points, 
+      correct D values, and classifications. To earn a P on this outcome, you will need to correctly 
+      give all partials and correct critical points.</p>
+  </introduction>  
+  <page>
+    <exercise>
+        <p>Given <m>f(x,y)=9-2x+4y-x^2-4y^2</m>. Find and classify all critical points.</p>
+    </exercise>
+  </page>
+</worksheet>

@@ -1,0 +1,12 @@
+<worksheet >
+    <title>DC-1 Partial Derivatives</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to correctly label and state all six partial derivatives. 
+      To earn a P on this outcome, you will need to correctly label and state at least four of the six partial derivatives.</p>
+  </introduction>  
+  <page>
+    <exercise workspace="1.5in">
+        <p>Find all first-order and second-order partial derivatives of the function <m>f(x,y) = x^4-3x^2y^3</m>.</p>
+    </exercise>
+  </page>
+</worksheet>
