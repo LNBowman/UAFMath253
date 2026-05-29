@@ -1,0 +1,26 @@
+<worksheet >
+    <title>IC-2 Triple Integrals</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to correctly complete both problems. 
+      To earn a P on this outcome, you will need to correctly complete Problem 1 and 
+      one part of Problem 2</p>
+  </introduction>  
+  <page>
+    <exercise workspace="2.5in">
+      <p>Evaluate <m>\iiint_E 2x dV</m> where 
+      <m>E=\left\{(x,y,z)|0\le y\le2, 0\le x\le \sqrt{4-y^2}, 0\le z\le y\right\}</m></p>
+    </exercise>
+  </page>
+  <page>
+    <exercise workspace="1.5in">
+      <task><statement><p>Let <m>\iiint_D (x^3+xy^2) dV</m> be such that <m>D</m> 
+        is the solid in the first octant that lies beneath the paraboloid 
+        <m>z=1-x^2-y^2</m>. Use cylindrical coordinates to set up the integration 
+        that will give the volume.</p></statement></task>
+      <task><statement><p>Let <m>\iiint_D (xyz) dV</m> be such that <m>D</m> 
+        is the region that lies between the spheres <m>\rho=2</m> and <m>\rho=9</m>, 
+        and above the cone <m>\phi=\frac{\pi}{3}</m>.  Use spherical coordinates 
+        to set up the integration that will give the volume.</p></statement></task>
+    </exercise>
+  </page>
+</worksheet>

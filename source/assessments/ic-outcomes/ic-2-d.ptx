@@ -1,0 +1,27 @@
+<worksheet >
+    <title>IC-2 Triple Integrals</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to correctly complete both problems. 
+      To earn a P on this outcome, you will need to correctly complete Problem 1 and 
+      one part of Problem 2</p>
+  </introduction>  
+  <page>
+    <exercise workspace="2.5in">
+      <p>Evaluate <m>\iiint_E 4x^2 dV</m> where 
+        <m>E=\left\{(x,y,z)|0\le x\le2, 0\le y\le \sqrt{4-x^2}, 0\le z\le 5\right\}</m></p>
+</exercise>
+  </page>
+  <page>
+    <exercise workspace="1.5in">
+      <task><statement><p>Let <m>\iiint_D (x^4+2x^2y^2+y^4) dV</m> be such that 
+        <m>D</m> is the solid region bounded below by the cone <m>z=\sqrt{x^2+y^2}</m> 
+        and above by the plane <m>z=2</m>. Use cylindrical coordinates to set up 
+        the integration that will give the volume.</p>
+    </statement></task>
+      <task><statement><p>Let <m>\iiint_D x dV</m> be such that <m>D</m> is the 
+        portion of the solid sphere <m>\rho\le 4</m> lying in the first octant. 
+        Use spherical coordinates to set up the integration that will give the volume.</p>
+    </statement></task>
+    </exercise>
+  </page>
+</worksheet>

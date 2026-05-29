@@ -132,6 +132,50 @@
             <xi:include href="./assessments/dc-outcomes/dc-5-e.ptx" />
           </subsection>
       </section>
+      <section xml:id="sec-ic-outcomes">
+        <title>Integral Calculus</title>
+        <introduction><p>Here are the assessment outcomes for Integral Calculus. There are multiple versions 
+          of each outcome so that there are options for multiple semesters of assessments. This section is 
+          divided into 4 outcomes:
+          <ul>
+            <li><p>Double Integrals</p></li>
+            <li><p>Triple Integrals</p></li>
+            <li><p>Integrals for Mass</p></li>
+            <li><p>Change of Variables</p></li>
+          </ul></p></introduction>
+          <subsection xml:id="sec-ic1-outcomes">
+            <title>IC-1 Double Integrals</title>
+            <xi:include href="./assessments/ic-outcomes/ic-1-a.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-1-b.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-1-c.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-1-d.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-1-e.ptx" />
+          </subsection>
+          <subsection xml:id="sec-ic2-outcomes">
+            <title>IC-2 Triple Integrals</title>
+            <xi:include href="./assessments/ic-outcomes/ic-2-a.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-2-b.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-2-c.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-2-d.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-2-e.ptx" />
+          </subsection>
+          <subsection xml:id="sec-ic3-outcomes">
+            <title>IC-3 Integrals for Mass</title>
+            <xi:include href="./assessments/ic-outcomes/ic-3-a.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-3-b.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-3-c.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-3-d.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-3-e.ptx" /> 
+          </subsection>
+          <subsection xml:id="sec-ic4-outcomes">
+            <title>IC-4 Change of Variables</title>
+            <xi:include href="./assessments/ic-outcomes/ic-4-a.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-4-b.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-4-c.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-4-d.ptx" />
+            <xi:include href="./assessments/ic-outcomes/ic-4-e.ptx" />
+          </subsection>
+      </section>
     </chapter>
     
 

@@ -1,0 +1,24 @@
+<worksheet >
+    <title>IC-3 Integrals of Mass</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to correctly complete both 
+      problems. To earn a P on this outcome, you will need to correctly complete 
+      problem 1 and either part a or b of problem 2 with progress on the other.</p>
+  </introduction>  
+  <page>
+    <p>Let <m>R</m> be the region bounded by the curves <m>y=\sqrt{x}, y=0</m>, and 
+      <m>x=1</m>. Consider the lamina occupying the region <m>R</m> with the 
+      density <m>\rho(x,y)=y</m>.</p>
+    <exercise>
+      <p>Find the mass of the lamina.</p>
+    </exercise>
+    </page>
+    <page>
+    <exercise>
+        <introduction><p>Use your results from Problem 1 to find the centroid 
+          of the lamina.</p></introduction>
+        <task workspace="3in"><statement><p>Find <m>M_x</m> and <m>M_y</m>.</p></statement></task>
+        <task workspace="1in"><statement><p>Find the coordinates of the centroid.</p></statement></task>
+    </exercise>
+  </page>
+</worksheet>

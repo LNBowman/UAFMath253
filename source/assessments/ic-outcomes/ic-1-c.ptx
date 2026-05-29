@@ -1,0 +1,27 @@
+<worksheet >
+    <title>IC-1 Double Integrals</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to correctly complete all three problems. 
+      To earn a P on this outcome, you will need to correctly complete problems 1 and 3 with progress on problem 2.</p>
+  </introduction>  
+  <page>
+    <exercise workspace="2.5in"><p>Find the volume of the solid enclosed by the 
+      surface <m>z=3x+2y^2</m> and the planes <m>z=0, x=0, y=2,</m> and <m>x=y</m>.</p>
+</exercise>
+    <exercise>
+        <introduction><p>The region, <m>R</m>, is bounded by the curves 
+          <m>y=x^3, x=0</m>, and <m>y=8</m>.</p></introduction>
+        <task><statement><p>Complete the integral that represents the volume 
+          under the surface over the region. <md>\int_{\rule{2em}{0.1em}}^{\rule{2em}{0.1em}} \int_{\rule{2em}{0.1em}}^{\rule{2em}{0.1em}} e^{y^2} dydx</md></p>
+    </statement></task>
+        <task  workspace="2.0in"><statement><p>Evaluate the integral by reversing the order of integration.</p></statement></task>
+    </exercise>
+    </page>
+    <page>
+    <exercise workspace="1.5in">
+        <p>Find the volume of the solid that lies under the paraboloid 
+          <m>z=x^2+y^2</m>, above the xy-plane, and inside the cylinder 
+          <m>x^2+y^2=2y</m>.</p>
+    </exercise>
+  </page>
+</worksheet>
