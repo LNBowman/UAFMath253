@@ -1,0 +1,28 @@
+<worksheet >
+    <title>APP-1 Line Integrals and Vector Fields</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to correctly complete all three problems. 
+      To earn a P on this outcome, you will need to correctly complete problem 1 and 1 part 
+      of problems 2 and 3 with progress on the other parts.</p>
+  </introduction>  
+  <page>
+    <exercise workspace="2.5in"><p>Evaluate <m>\int_C(x^3y)dS</m> where 
+      <m>C</m> is the upper half of the circle <m>x^2 + y^2 = 1</m>.</p></exercise>
+  </page>
+  <page>
+    <exercise>
+        <introduction><p>Let <m>\vec{F}(x,y)=\langle y, -x+1 \rangle</m>.</p></introduction>
+        <task workspace="2.0in"><statement><p>Give a sketch of the vector field for the integer points in <m>[-1,1]\times[-1,1]</m></p></statement></task>
+        <task workspace="2.0in"><statement><p>Assume that <m>\vec{F}</m> represents a velocity field and the position 
+          of a particle in the field at time <m>t=4</m> is <m>(5,-2)</m>.  Estimate the location of the particle 
+          at time <m>t=4.01</m>.</p></statement></task>
+    </exercise>
+    </page>
+    <page>
+    <exercise>
+        <introduction><p> Given <m>\vec{F}(x,y)=\langle 2xy^3+5e^{5x},3x^2y^2+\sec^2{y} \rangle</m> for <m>y \gt 0</m>.</p></introduction>
+        <task workspace="2.0in"><statement><p>Show that <m>\vec{F}</m> is conservative.</p></statement></task>
+        <task workspace="2.0in"><statement><p>Find the potential function if it exists. If it does not exist, explain why.</p></statement></task>
+    </exercise>
+  </page>
+</worksheet>

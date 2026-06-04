@@ -1,0 +1,14 @@
+<worksheet >
+    <title>APP-2 Green's Theorem</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to set up and correctly evaluate 
+      the integral.  To earn a P on this outcome, you will need to set up the integral 
+      and show progress on evaluating it.</p>
+  </introduction>  
+  <page>
+    <exercise workspace="2.5in"><p>Use Green's Theorem to evaluate 
+      <m>\oint_C 2xy dx+(x^2+x)dy</m> where <m>\vec{C}</m> is the positively 
+      oriented circle <m>x^2+y^2=4</m>.
+    </p></exercise>
+  </page>
+</worksheet>

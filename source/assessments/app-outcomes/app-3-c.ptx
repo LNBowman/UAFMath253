@@ -1,0 +1,12 @@
+<worksheet >
+    <title>APP-3 Surface Integrals</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to set up, correctly evaluate and simplify the surface integral. 
+      To earn a P on this outcome, you will need to set up the integral and show progress on evaluating it.</p>
+  </introduction>  
+  <page>
+    <exercise workspace="2.5in"><p>Evaluate the surface integral <m>\iint_S f(x,y,z)\,dS</m>, 
+      where <m>f(x,y,z) = z</m> and <m>S</m> is the part of the plane <m>2x + 2y + z = 4</m> 
+      that lies in the first octant.</p></exercise>
+  </page>
+</worksheet>

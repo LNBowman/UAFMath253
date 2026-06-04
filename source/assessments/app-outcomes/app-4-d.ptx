@@ -1,0 +1,23 @@
+<worksheet >
+    <title>APP-4 Stokes' Theorem and the Divergence Theorem</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to correctly complete all three problems. 
+      To earn a P on this outcome, you will need to correctly complete problem 1 and 1 part 
+      of problems 2 and 3with progress on the other parts.</p>
+  </introduction>  
+  <page>
+    <exercise workspace="2.5in"><p>Use Stokes's Theorem to evaluate 
+       <m>\iint_S \text{curl }\vec{F} \cdot d\vec{S}</m> where 
+       <m>\vec{F}(x,y,z)=\langle z^2, \tan^{-1}(x^2+y^2), x^3y \rangle</m> 
+       and <m>S</m> is the part of the plane <m>x+y+z=1</m> that lies in the 
+       first octant, oriented upwards.</p></exercise>
+  </page>
+  <page>
+    <exercise>
+        <introduction><p>Consider the vector field <m>\vec{F}(x,y,z)=\langle x^3, y, z \rangle</m>. 
+          Let <m>S</m> be the open cone <m>z = \sqrt{x^2 + y^2}</m> and <m>0 \leq z \leq 2</m>.</p></introduction>
+        <task workspace="2.0in"><statement><p>Set up the surface integral that computes the flux of <m>\vec{F}</m> through <m>S</m>.</p></statement></task>
+        <task workspace="2.0in"><statement><p>Use the Divergence Theorem to compute the outward flux through <m>S</m>.</p></statement></task>
+    </exercise>
+    </page>
+</worksheet>

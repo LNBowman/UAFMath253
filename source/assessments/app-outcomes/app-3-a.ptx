@@ -1,0 +1,12 @@
+<worksheet >
+    <title>APP-3 Surface Integrals</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to set up, correctly evaluate and simplify the surface integral. 
+      To earn a P on this outcome, you will need to set up the integral and show progress on evaluating it.</p>
+  </introduction>  
+  <page>
+    <exercise workspace="2.5in"><p>Evaluate the surface integral <m>\iint_S f(x,y,z)\,dS</m>, 
+      where <m>f(x,y,z) = yz</m> and <m>S</m> is the part of the cylinder <m>x^2 + y^2 = 4</m> 
+      that lies between the planes <m>z = 0</m> and <m>z = 3</m> in the first octant.</p></exercise>
+  </page>
+</worksheet>

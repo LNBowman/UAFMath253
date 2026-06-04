@@ -175,9 +175,53 @@
             <xi:include href="./assessments/ic-outcomes/ic-4-d.ptx" />
             <xi:include href="./assessments/ic-outcomes/ic-4-e.ptx" />
           </subsection>
+      </section> 
+      <section xml:id="sec-app-outcomes">
+        <title>Applications of Multivariable Calculus</title>
+        <introduction><p>Here are the assessment outcomes for the Applications of Multivariable Calculus. There are multiple versions 
+          of each outcome so that there are options for multiple semesters of assessments. This section is 
+          divided into 4 outcomes:
+          <ul>
+            <li><p>Line Integrals and Vector Fields</p></li>
+            <li><p>Green's Theorem</p></li>
+            <li><p>Surface Integrals</p></li>
+            <li><p>Stokes' Theorem and The Divergence Theorem</p></li>
+          </ul></p></introduction>
+          <subsection xml:id="sec-app1-outcomes">
+            <title>APP-1 Line Integrals and Vector Fields</title>
+            <xi:include href="./assessments/app-outcomes/app-1-a.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-1-b.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-1-c.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-1-d.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-1-e.ptx" />
+          </subsection>
+          <subsection xml:id="sec-app2-outcomes">
+            <title>APP-2 Green's Theorem</title>
+            <xi:include href="./assessments/app-outcomes/app-2-a.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-2-b.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-2-c.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-2-d.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-2-e.ptx" />
+          </subsection>
+          <subsection xml:id="sec-app3-outcomes">
+            <title>APP-3 Surface Integrals</title>
+            <xi:include href="./assessments/app-outcomes/app-3-a.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-3-b.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-3-c.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-3-d.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-3-e.ptx" />
+          </subsection>
+          <subsection xml:id="sec-app4-outcomes">
+            <title>APP-4 Stokes' Theorem and The Divergence Theorem</title>
+            <xi:include href="./assessments/app-outcomes/app-4-a.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-4-b.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-4-c.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-4-d.ptx" />
+            <xi:include href="./assessments/app-outcomes/app-4-e.ptx" />
+          </subsection>
       </section>
     </chapter>
     
 
-    </book>
+    </book> 
   </pretext>

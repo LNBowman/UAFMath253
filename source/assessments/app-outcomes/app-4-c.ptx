@@ -1,0 +1,24 @@
+<worksheet >
+    <title>APP-4 Stokes' Theorem and the Divergence Theorem</title>
+  <introduction>
+    <p>To earn an M on this outcome, you will need to correctly complete all three problems. 
+      To earn a P on this outcome, you will need to correctly complete problem 1 and 1 part 
+      of problems 2 and 3with progress on the other parts.</p>
+  </introduction>  
+  <page>
+    <exercise workspace="2.5in"><p>Use Stokes's Theorem to evaluate 
+      <m>\iint_S \text{curl }\vec{F} \cdot d\vec{S}</m> where 
+      <m>\vec{F}(x,y,z)=\langle y e^z, x^2 z, \cos(z^3) \rangle</m> and 
+      <m>S</m> is the cone <m>y = \sqrt{x^2 + z^2}, 0 \leq y \leq 3</m>, 
+      oriented towards the positive <m>y</m>-axis.</p></exercise>
+  </page>
+  <page>
+    <exercise>
+        <introduction><p>Consider the vector field <m>\vec{F}(x,y,z)=\langle x^2, y^2, z^4 \rangle</m>. 
+          Let <m>S</m> be the open upper hemisphere <m>x^2 + y^2 + z^2 = 1</m> and 
+          <m>z \geq 0</m>.</p></introduction>
+        <task workspace="2.0in"><statement><p>Set up the surface integral that computes the flux of <m>\vec{F}</m> through <m>S</m>.</p></statement></task>
+        <task workspace="2.0in"><statement><p>Use the Divergence Theorem to compute the outward flux through <m>S</m>.</p></statement></task>
+    </exercise>
+    </page>
+</worksheet>
